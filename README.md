@@ -12,6 +12,12 @@
 
 ## 8기 큐레이션 리스트 (23.01.30 ~ 23.07.16)
 
+❗️ *회차마다 제출된 글의 개수와 분야가 다르므로 차이가 있음을 알립니다*
+
+‼️ *큐레이션 리스트는 저자의 글 제목을 그대로 인용하였습니다*
+
+
+
 ### 1회차
 
 - [🥁 CORS는 왜 생겼을까요?](https://blog.areumsheep.vercel.app/contents/why-cors/)
@@ -25,9 +31,29 @@
 - [두 그룹 간의 주요 요인인자 산출 및 통계적 차이 검증](https://ysjang0926.github.io/data/2023/02/11/significant-difference-test/)
 - [Goodbye 2022년, Hello 2023년](https://velog.io/@h-go-getter/Goodbye-2022%EB%85%84-Hello-2023%EB%85%84)
 
-### 2회차 🚧 작성 중 입니다...👷‍♂️
-
-- 
 
 
+### 2회차
+
+- [🌟 자바스크립트는 어떻게 동작하나요?](https://blog.areumsheep.vercel.app/contents/how-javascript-works/)
+- [Event Loop와 비동기](https://pozafly.github.io/javascript/event-loop-and-async/)
+- [📈 Noise-Effector 개발기 -성능 개선-](https://velog.io/@thumb_hyeok/Noise-Effector-%EA%B0%9C%EB%B0%9C%EA%B8%B0-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-)
+- [내가 당장 해볼 수 있는 검색엔진 최적화](https://jodnddus.blog/todos-google-seo-guide)
+- [DB 설계하는 법 (feat. 데이터 모델링)](https://yeongunheo.tistory.com/entry/DB-%EC%84%A4%EA%B3%84%ED%95%98%EB%8A%94-%EB%B2%95-feat-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8%EB%A7%81)
+- [[O2] Obsidian plugin 개발하기](https://songkg7.github.io/posts/develop-obsidian-plugin/)
+- [SirTunnel를 활용한 터널링 서버 구축 - 로컬 서버를 인터넷에 공유하기](https://dlwocks31.me/blog/sirtunnel/)
+- [웹소켓 실전 적용하기](https://blog.chavo.dev/blog/practical-websocket?)
+- [제로부터 시작하는 MLOps 도구와 활용 - 1. MLOps 개요](https://blog.taehun.dev/from-zero-to-hero-mlops-tools-1)
+- [세상은 개발도상국과 선진국으로 나뉠까?](https://analyst-ggom-chi-kim.tistory.com/3)
+- [트랜스포머(Transformer) 파헤치기-2.Multi-Head Attention](https://www.blossominkyung.com/deeplearning/transformer-mha)
+- [Data Drift 발견하기](https://pizzathief.oopy.io/data-drift-detection)
+- [코드 리뷰는 스포츠다](https://wormwlrm.github.io/2023/02/20/Code-Review-is-a-Sports.html)
+- [도기보기 안드로이드 앱 리팩토링(1) : 구글 공식 문서 참고하여 코드 구조에 적용하기](https://medium.com/@zzanzu/%EB%8F%84%EA%B8%B0%EB%B3%B4%EA%B8%B0-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-1-%EA%B5%AC%EA%B8%80-%EA%B3%B5%EC%8B%9D-%EB%AC%B8%EC%84%9C-%EC%B0%B8%EA%B3%A0%ED%95%98%EC%97%AC-%EC%BD%94%EB%93%9C-%EA%B5%AC%EC%A1%B0%EC%97%90-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-3feb267633e8)
+- [카테고리 수집하려다 슬랙 봇까지 개발해버린 건에 대하여…](https://daco2020.tistory.com/752)
+
+
+
+### 3회차
+
+- 🚧 작성 중 입니다...👷‍♂️
 
