@@ -55,5 +55,23 @@
 
 ### 3회차
 
+- [CockroachDB 비트 레벨 해킹 따라해보기(절망편)](https://sungchul-p.github.io/hacking-cockroachdb)
+- [📃WASABI](https://curieuxjy.github.io/posts/paper/2023-03-12-wasabi.html)
+- [Feature Toggle 150% 활용하기](https://sungjk.github.io/2023/03/04/feature-toggle.html)
+- [서버 오픈 전 부하테스트로 대비하기](https://hyewoncc.github.io/load-test/)
+- [Index로 조회 성능 개선하기 with MySQL](https://sooyoungh.github.io/cafemate-index-2)
+- [GC 알고리즘 + JVM 이 채택한 GC 취사선택해서 알아보기😋](https://juneyr.dev/jvm-gc)
+- [Yarn 대신 pnpm으로 넘어간 3가지 이유](https://hiddenest.dev/yarn-pnpm-3)
+- [간단한 유틸 함수 NPM 라이브러리 배포해보기 (feat. TypeScript 지원, ESM 지원)](https://junghyeonsu.com/posts/deploy-simple-util-npm-library/)
+- [[JavaScript] V8 Garbage Collection](https://iyu88.github.io/javascript/2023/03/11/garbage-collection.html)
+- [코딩 할 때 ‘부대 지정’을 할 수 있다면?? 인텔리제이 bookmark 기능 알아보기](https://sihyung92.oopy.io/etc/intellij/4)
+- [나는 어떻게 '아들 둘 아빠 개발자'가 되었는가?](https://haenarashin.github.io/daily/2023/03/10/Dad_developer_with_2_kids.html)
+- [그 많은 OTT 콘텐츠는 어떻게 웹에서 재생될 수 있을까](https://wormwlrm.github.io/2023/03/05/DRM-Contents-on-Web.html)
+- [지하철 전광판을 아이폰 화면에서 보자! — <영차열차> 프로젝트 회고](https://medium.com/@Jager-yoo/%EC%A7%80%ED%95%98%EC%B2%A0-%EC%A0%84%EA%B4%91%ED%8C%90%EC%9D%84-%EC%95%84%EC%9D%B4%ED%8F%B0-%ED%99%94%EB%A9%B4%EC%97%90%EC%84%9C-%EB%B3%B4%EC%9E%90-%EC%98%81%EC%B0%A8%EC%97%B4%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0-cd48ffc95af6)
+
+
+
+### 4회차
+
 - 🚧 작성 중 입니다...👷‍♂️
 
