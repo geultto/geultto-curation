@@ -18,7 +18,7 @@
 
 
 
-### 1회차
+### 1 회차
 
 - [🥁 CORS는 왜 생겼을까요?](https://blog.areumsheep.vercel.app/contents/why-cors/)
 - [프레임워크 없이 만드는 SSR](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Server-Side-Rendering/)
@@ -33,7 +33,7 @@
 
 
 
-### 2회차
+### 2 회차
 
 - [🌟 자바스크립트는 어떻게 동작하나요?](https://blog.areumsheep.vercel.app/contents/how-javascript-works/)
 - [Event Loop와 비동기](https://pozafly.github.io/javascript/event-loop-and-async/)
@@ -53,7 +53,7 @@
 
 
 
-### 3회차
+### 3 회차
 
 - [CockroachDB 비트 레벨 해킹 따라해보기(절망편)](https://sungchul-p.github.io/hacking-cockroachdb)
 - [📃WASABI](https://curieuxjy.github.io/posts/paper/2023-03-12-wasabi.html)
@@ -71,7 +71,25 @@
 
 
 
-### 4회차
+### 4 회차
+
+- [OpenAI ChatGPT API를 활용해 추천 시스템 구현하기(feat. HuggingFace)](https://lsjsj92.tistory.com/657)
+- [왜 딥러닝은 정형 데이터에 잘 안 통할까](https://pizzathief.oopy.io/why-do-tree-based-models-still-outperform-deep-learning-on-typical-tabular-data)
+- [데이터 마트에서는 뭘 파나요?(feat. OLTP, OLAP)](https://gibles-deepmind.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A7%88%ED%8A%B8%EC%97%90%EC%84%9C%EB%8A%94-%EB%AD%98-%ED%8C%8C%EB%82%98%EC%9A%94)
+- [Supabase - 쉽고 빠른 모바일/웹 개발을 위한 백엔드 서비스](https://dlwocks31.me/blog/supabase/)
+- [Go를 사용하며 느꼈던 몇 가지 충격(?) 포인트들](https://kukim.tistory.com/190)
+- [구글에서 제안하는 오류 메세지 작성법](https://hyeon9mak.github.io/writing-helpful-error-messages/)
+- [어느 스타트업 fe 엔지니어의 장기 프로젝트 회고](https://jodnddus.blog/retrosepctive-of-startup-fe-engineer)
+- [이 값은 이제 제껍니다](https://alwayshere.vercel.app/blog/20230326)
+- [React 18 automatic batching에 대해 알아보자](https://velog.io/@dbwjd5864/React-18-automatic-batching%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
+- [[Android] RecyclerViewPool로 사용자 경험 개선하기](https://munseong.dev/android/recyclerviewpool/)
+- [신입 개발자, 김영한 님을 만나다.](https://yeonyeon.tistory.com/300)
+- [스타트업 조직 문화 설계하기 (feat. Culture Design Canvas)](https://blog.chavo.dev/blog/culture-design-canvas?utm_source=slack&utm_medium=cpc&utm_campaign=8th_submission)
+- [chezmoi, 세상 편리하게 dotfile 관리하기](https://songkg7.github.io/posts/chezmoi-awesome-dotfile-manager/)
+
+
+
+### 5 회차
 
 - 🚧 작성 중 입니다...👷‍♂️
 
