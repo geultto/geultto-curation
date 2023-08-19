@@ -91,5 +91,20 @@
 
 ### 5 회차
 
+- [[Serverless] Open Source Contributor의 첫걸음](https://custom-li.tistory.com/203)
+- [JPA saveAll이 Bulk INSERT 되지 않았던 이유](https://imksh.com/113)
+- [쿠버네티스 클러스터의 POD에서 클러스터 API 사용하기](https://findstar.pe.kr/2023/04/09/access-k8s-api-from-pod/)
+- [매일 배포하는 팀이 되는 여정(1) — 브랜치 전략 개선하기](https://medium.com/daangn/%EB%A7%A4%EC%9D%BC-%EB%B0%B0%ED%8F%AC%ED%95%98%EB%8A%94-%ED%8C%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%97%AC%EC%A0%95-1-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%A0%84%EB%9E%B5-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-1a1df85b2cff)
+- [MVCC(Multi Version Concurrency Control) 알아보기](https://monday9pm.com/mvcc-multi-version-concurrency-control-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-e4102cd97e59)
+- [[Storybook] 스토리북의 Docs 기능으로 컴포넌트 라이브러리 문서화하기](https://iyu88.github.io/storybook/2023/04/07/storybook-docs.html)
+- [[TCA] Sheet 를 dismiss 할 때 화면이 하얗게 blank out 되는 버그 해결 방법](https://medium.com/@Jager-yoo/tca-sheet-%EB%A5%BC-dismiss-%ED%95%A0-%EB%95%8C-%ED%99%94%EB%A9%B4%EC%9D%B4-%ED%95%98%EC%96%97%EA%B2%8C-blank-out-%EB%90%98%EB%8A%94-%EB%B2%84%EA%B7%B8-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95-54034d956242)
+- [[좋아하는 서비스 분석] B2B SaaS 채널톡 2편](https://velog.io/@h-go-getter/%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B6%84%EC%84%9D-B2B-SaaS-%EC%B1%84%EB%84%90%ED%86%A1-2%ED%8E%B8)
+- [이상한 부업 일기 - 나는 얼마나 고객을 알고 있을까](https://hyewoncc.github.io/weird-side-job-1/)
+- [[사내문화 만들기] 동료와 칭찬 쿠키🍪를 주고받는 슬랙 채널을 만들었습니다 (feat. 오픈소스 프로젝트)](https://velog.io/@autumnkim/%EC%82%AC%EB%82%B4%EB%AC%B8%ED%99%94-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%8F%99%EB%A3%8C%EC%99%80-%EC%BF%A0%ED%82%A4%EB%A5%BC-%EC%A3%BC%EA%B3%A0%EB%B0%9B%EB%8A%94-%EC%B9%AD%EC%B0%AC-%EC%B1%84%EB%84%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-PM)
+
+
+
+### 6 회차
+
 - 🚧 작성 중 입니다...👷‍♂️
 
