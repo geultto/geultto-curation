@@ -106,5 +106,19 @@
 
 ### 6 회차
 
-- 🚧 작성 중 입니다...👷‍♂️
+- [react-hook-form & zod 로 복잡한 오브젝트 관리하기 (feat. immerjs)](https://devowen.com/485)
+- [[JavaScript] ECMAScript 2023 살펴보기](https://iyu88.github.io/javascript/2023/04/23/ecma-script-2023.html)
+- [Form 다루기1: 폼과 입력 컴포넌트 구조](https://kimyouknow.github.io/fe/Form%20%EB%8B%A4%EB%A3%A8%EA%B8%B01:%20%ED%8F%BC%EA%B3%BC%20%EC%9E%85%EB%A0%A5%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EA%B5%AC%EC%A1%B0)
+- [Virtual Thread란 무엇일까? (1)](https://findstar.pe.kr/2023/04/17/java-virtual-threads-1/)
+- [PWA 2023: 새로운 표준과 더 나은 기능으로 발전하는 프로그레시브 웹 앱](https://medium.com/@nuatmochoi/pwa-2023-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%91%9C%EC%A4%80%EA%B3%BC-%EB%8D%94-%EB%82%98%EC%9D%80-%EA%B8%B0%EB%8A%A5%EC%9C%BC%EB%A1%9C-%EB%B0%9C%EC%A0%84%ED%95%98%EB%8A%94-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%A0%88%EC%8B%9C%EB%B8%8C-%EC%9B%B9-%EC%95%B1-6359ef7300d4)
+- [Knowledge Integration in Language Models](https://taes.me/Knowledge%20Integration%20in%20Language%20Model/)
+- [데이터 이벤트 로그 설계 과정](https://brunch.co.kr/@jinny/18)
+- [Vimtutor를 이용해 Vim 명령어를 배워보자](https://wormwlrm.github.io/2023/04/16/Learn-Vim-with-Vimtutor.html)
+- [열정적인 사람의 2023년 1분기 회고😎🤞](https://velog.io/@h-go-getter/%EC%97%B4%EC%A0%95%EC%A0%81%EC%9D%B8-%EC%82%AC%EB%9E%8C%EC%9D%98-2023%EB%85%84-1%EB%B6%84%EA%B8%B0-%ED%9A%8C%EA%B3%A0)
+
+
+
+### 7 회차
+
+🚧 작성 중 입니다...👷‍♂️
 
