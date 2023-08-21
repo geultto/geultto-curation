@@ -137,5 +137,19 @@
 
 ### 8 회차
 
+- [왜 TypeScript는 void 타입을 사용해도 값을 return 할 수 있을까?](https://pozafly.github.io/typescript/why-can-typescript-return-any-value-using-void/)
+- [AJV 및 GitHub Action을 사용하여 JSON 파일에서 일관된 메타 정보 보장하기](https://junghyeonsu.com/posts/using-ajv-and-github-actions-to-ensure-consistent-meta-information-across-json-files/)
+- [[JavaScript] 꼬리 물기 최적화](https://iyu88.github.io/javascript/2023/05/21/tail-call-optimization.html)
+- [왜 배열의 목록은 'i' 로 표현할까?](https://velog.io/@wongue_shin/%EC%99%9C-%EB%B0%B0%EC%97%B4%EC%9D%98-%EB%AA%A9%EB%A1%9D%EC%9D%80-i-%EB%A1%9C-%ED%91%9C%ED%98%84%ED%95%A0%EA%B9%8C)
+- [Kafka의 ACKS, ISR 설정에 따른 NOT_ENOUGH_REPLICAS 에러 원인 살펴보기](https://sungjk.github.io/2023/05/13/kafka-not-enough-replicas.html)
+- [아직도 커널이 뭔지 모르겠어요](https://pizzathief.oopy.io/kernel)
+- [Github 리드미에 달력 표시하기 - 1탄](https://chucoding.tistory.com/115)
+- [[Backspace 후기] 글또 반상회를 다녀오고](https://yeonyeon.tistory.com/305)
+- [퇴사를 하며 - 1년간의 lesson learned](https://www.myanglog.com/%ED%87%B4%EC%82%AC%EB%A5%BC%20%ED%95%98%EB%A9%B0%20-%201%EB%85%84%EA%B0%84%EC%9D%98%20lesson%20learned)
+
+
+
+### 9 회차
+
 - 🚧 작성 중 입니다...👷‍♂️
 
