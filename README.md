@@ -120,5 +120,22 @@
 
 ### 7 회차
 
-🚧 작성 중 입니다...👷‍♂️
+- [이벤트 로그 체계 구축 여정](https://spoqa.github.io/2023/04/28/journey-to-building-an-event-log-system.html)
+- [📃K-Accessibility for RL](https://curieuxjy.github.io/posts/paper/2023-05-07-accessibility.html)
+- [Retention 을 트래픽으로 바꿔보기](https://hip-turtle.notion.site/Retention-65bbd2dd05154308935eecc4c4b34d93)
+- [카산드라 DB 톺아보기 (Cassandra DB)](https://blog.chavo.dev/blog/cassandra-structure?)
+- [Java에서의 동시성 관련 키워드](https://suhyunsim.github.io/2023-05-03/Java%EC%97%90%EC%84%9C%EC%9D%98-%EB%8F%99%EC%8B%9C%EC%84%B1)
+- [개발에 자신있다고 무작정 구현부터 시작하지 마세요](https://medium.com/@zzanzu/%EB%AC%B4%EC%9E%91%EC%A0%95-%EA%B5%AC%ED%98%84%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EC%A7%80-%EB%A7%88%EC%84%B8%EC%9A%94-b38545532af)
+- [이미지에 들어갈 소스의 적절한 크기는 어떻게 정할까?](https://milkku-shakku.tistory.com/entry/%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%97%90-%EB%93%A4%EC%96%B4%EA%B0%88-%EC%86%8C%EC%8A%A4%EC%9D%98-%EC%A0%81%EC%A0%88%ED%95%9C-%ED%81%AC%EA%B8%B0%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A0%95%ED%95%A0%EA%B9%8C)
+- [웹팩 빌드 최적화 개념 살펴보기](https://damilog.vercel.app/blog/webpack-optimization)
+- [Form 다루기2: 불필요한 렌더링 방지하기](https://kimyouknow.github.io/fe/Form%20%EB%8B%A4%EB%A3%A8%EA%B8%B02:%20%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%EB%B0%A9%EC%A7%80%ED%95%98%EA%B8%B0)
+- [미드레벨 SW 엔지니어가 갖춰야 할 7가지 역량](https://yozm.wishket.com/magazine/detail/1993/)
+- [내 블로그의 최신 글을 깃허브 프로필에 자동으로 등록하기](https://www.oooooroblog.com/posts/66-make-recent-post-list-to-my-profile)
+- [git rebase --onto 옵션 그리고 PR 쪼개기의 기술](https://p-iknow.netlify.app/git/git-rebase-onto-and-split-pr-into-smaller-units/)
+
+
+
+### 8 회차
+
+- 🚧 작성 중 입니다...👷‍♂️
 
