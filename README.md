@@ -151,5 +151,22 @@
 
 ### 9 회차
 
+- [React는 Hooks를 배열로 관리하고 있다](https://pozafly.github.io/react/react-is-managing-hooks-as-an-array/)
+- [TypeScript 5.0 버전 주요 변경사항 정리](https://devowen.com/487)
+- [소스 맵의 동작 원리는 무엇일까?](https://wormwlrm.github.io/2023/06/04/What-are-Source-Maps.html)
+- [PostgreSQL 에서 Vacuum 이 필요한 이유 (MVCC, XID)](https://todayscoding.tistory.com/64)
+- [메시지 전달 전략과 두 장군 문제(Message Delivery Semantics and Two Generals’ Problem)](https://monday9pm.com/%EB%A9%94%EC%8B%9C%EC%A7%80-%EC%A0%84%EB%8B%AC-%EC%A0%84%EB%9E%B5%EA%B3%BC-%EB%91%90-%EC%9E%A5%EA%B5%B0-%EB%AC%B8%EC%A0%9C-message-delivery-semantics-and-two-generals-problem-f8f1c7646c0b)
+- [Developing Observability Features with AWS Lambda Powertools](https://medium.com/@nuatmochoi/developing-observability-features-with-aws-lambda-powertools-ebd5ef849e20)
+- [ChatGPT Prompt Engineering for Developers 강의 정리](https://blog.taehun.dev/chatgpt-prompt-engineering)
+- [SwiftUI에서 애플 펜슬을 추구하면 안 되는 걸까?](https://medium.com/@radiantchoi/swiftui%EC%97%90%EC%84%9C-%EC%95%A0%ED%94%8C-%ED%8E%9C%EC%8A%AC%EC%9D%84-%EC%B6%94%EA%B5%AC%ED%95%98%EB%A9%B4-%EC%95%88-%EB%90%98%EB%8A%94-%EA%B1%B8%EA%B9%8C-fd6696aaa9d4)
+- [왕초보 신입 개발자의 우당탕탕 이력서 작성기](https://techblog.woowahan.com/11998/)
+- [📘Github Starstruck 128](https://curieuxjy.github.io/posts/note/2023-05-27-twinkle-github-star.html)
+- [방대한 구글의 검색엔진에서 살아남기 (구글은 어떻게 좋은 컨텐츠를 판별할까)](https://junghyeonsu.com/posts/search-quality-evaluator-guidelines/)
+- [[toss] iOS 개발자를 위한 SIMPLICITY23 리뷰 - 디자이너와 친해지기]([toss] iOS 개발자를 위한 SIMPLICITY23 리뷰 - 디자이너와 친해지기)
+
+
+
+### 10 회차
+
 - 🚧 작성 중 입니다...👷‍♂️
 
