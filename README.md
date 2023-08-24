@@ -168,5 +168,21 @@
 
 ### 10 회차
 
+- [React 렌더링과정으로 알아보는 선언적이라는 의미](https://pozafly.github.io/react/declarative-meaning-of-react-rendering-process/)
+- [(번역) 캐시 시스템 설계할 때 기억해야 할 6가지 캐싱 전략](https://soobing.github.io/cs/6-caching-strategies/)
+- [Spring MVC Application Server에 HTTP Request를 보내면 어떤 일이 일어날까?](https://monday9pm.com/spring-mvc%EC%97%90-http-request%EB%A5%BC-%EB%B3%B4%EB%82%B4%EB%A9%B4-%EC%96%B4%EB%96%A4-%EC%9D%BC%EC%9D%B4-%EC%9D%BC%EC%96%B4%EB%82%A0%EA%B9%8C-80467f8bc486)
+- [제로부터 시작하는 DDD를 위한 이벤트스토밍](https://custom-li.tistory.com/207)
+- [Java10 무분별한 var를 지양해야 하는 이유](https://imksh.com/117)
+- [👩‍💻Chord Graph](https://curieuxjy.github.io/posts/code/2023-06-18-chord.html)
+- [[논문 리뷰] LoRA: Low-Rank Adaptaion of Large Language](https://taeyuplab.tistory.com/12)
+- [LLM 애플리케이션을 위한 사내 프롬프트 관리 패키지 개발기](https://realsalmon.tistory.com/40)
+- [[SPARK] SPARK에서 대량의 스몰 파일이 생성되는 문제 해결](https://pickwon.tistory.com/165)
+- [[분석] 대시보드용 데이터 마트로 리포팅하기](https://schatz37.tistory.com/59)
+- [발표 울렁증인 제가 대학생들 앞에서 발표를 하라구요?!](https://medium.com/@zzanzu/%EB%8C%80%ED%95%99%EA%B5%90-%EC%B0%BD%EC%97%85-%ED%8A%B9%EA%B0%95-%EB%B0%9C%ED%91%9C-%EC%A4%80%EB%B9%84-%EA%B3%BC%EC%A0%95%EA%B3%BC-%EB%8A%90%EB%82%80%EC%A0%90%EB%93%A4-59625b0571d8)
+
+
+
+### 11 회차
+
 - 🚧 작성 중 입니다...👷‍♂️
 
