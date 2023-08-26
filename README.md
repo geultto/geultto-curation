@@ -162,7 +162,7 @@
 - [왕초보 신입 개발자의 우당탕탕 이력서 작성기](https://techblog.woowahan.com/11998/)
 - [📘Github Starstruck 128](https://curieuxjy.github.io/posts/note/2023-05-27-twinkle-github-star.html)
 - [방대한 구글의 검색엔진에서 살아남기 (구글은 어떻게 좋은 컨텐츠를 판별할까)](https://junghyeonsu.com/posts/search-quality-evaluator-guidelines/)
-- [[toss] iOS 개발자를 위한 SIMPLICITY23 리뷰 - 디자이너와 친해지기]([toss] iOS 개발자를 위한 SIMPLICITY23 리뷰 - 디자이너와 친해지기)
+- [[toss] iOS 개발자를 위한 SIMPLICITY23 리뷰 - 디자이너와 친해지기](https://applecider2020.tistory.com/78)
 
 
 
@@ -184,5 +184,26 @@
 
 ### 11 회차
 
-- 🚧 작성 중 입니다...👷‍♂️
+- [git stat를 이용하여 코드 리뷰 요청 전 커밋 사이즈 관리하기](https://baek.dev/post/51/)
+- [AWS WAF 적용 전 영향도 식별하기](https://medium.com/@nuatmochoi/aws-waf-%EC%A0%81%EC%9A%A9-%EC%A0%84-%EC%98%81%ED%96%A5%EB%8F%84-%EC%8B%9D%EB%B3%84%ED%95%98%EA%B8%B0-b89aa6b2499b)
+- [트위터가 볼 수 있는 트윗수를 제한한다고? rate-limit](https://juneyr.dev/rate-limit-algorithm)
+- [[논문리뷰] Gorilla: Large Language Model Connected with Massive APIs](https://velog.io/@boyunj0226/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-Gorilla-Large-Language-Model-Connected-with-Massive-APIs)
+- [[Torchio]-3D Segmentation](https://velog.io/@rimo_/Torchio-3D-Segmentation)
+- [제로부터 시작하는 MLOps 도구와 활용 - 4. 데이터 관리 (1/2)](https://blog.taehun.dev/from-zero-to-hero-mlops-tools-4-1)
+- [Redis를 활용한 벡터 데이터베이스 구현하기](https://chucoding.tistory.com/119)
+- [[KG] LLM에 날개를 달아줄 지식그래프 (Unifying Large Lanuage Models and Knowledge Graphs 논문)](https://heehehe-ds.tistory.com/200)
+- [개발자를 위한 이력서 스터디 진행 후기](https://wormwlrm.github.io/2023/07/02/Resume-Renewal-Project.html)
+- [현대자동차 iOS 개발자 이직 — 3개월 차 회고](https://medium.com/@Jager-yoo/%ED%98%84%EB%8C%80%EC%9E%90%EB%8F%99%EC%B0%A8-ios-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B4%EC%A7%81-3%EA%B0%9C%EC%9B%94-%EC%B0%A8-%ED%9A%8C%EA%B3%A0-e0d59ee3157)
+- [💻 글또 데이터빌리지 반상회 - 여러 데이터기사님들과의 만남 🚖](https://spaceofyujin.tistory.com/35)
+- [2023 글또 백엔드/인프라 빌리지 반상회(백스페이스) 준비위 후기](https://kidneybeans2.tistory.com/31)
+
+
+
+### 12 회차
+
+- [피그마에 존재하는 아이콘을 개발단에 빠르게 적용하기 (피그마 플러그인, 아이콘 라이브러리)](https://junghyeonsu.com/posts/quickly-apply-icons-that-exist-in-figma-to-your-dev-team/)
+- [spring circuit breaker 이해 및 예제 정리](https://hyeon9mak.github.io/spring-circuit-breaker/)
+- [제품을 바닥부터 다시 만들게 된다면 꼭 지킬 것들](https://hiddenest.dev/things-to-do-when-rebuild-from-scratch)
+- [3년차 데이터 분석가의 23년 상반기 회고](https://gibles-deepmind.tistory.com/entry/3%EB%85%84%EC%B0%A8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D%EA%B0%80%EC%9D%98-23%EB%85%84-%EC%83%81%EB%B0%98%EA%B8%B0-%ED%9A%8C%EA%B3%A0)
+- [글또 8기 회고](https://pozafly.github.io/diary/geultto-8-retrospect/)
 
