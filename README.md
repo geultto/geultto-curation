@@ -40,7 +40,7 @@
 - [📈 Noise-Effector 개발기 -성능 개선-](https://velog.io/@thumb_hyeok/Noise-Effector-%EA%B0%9C%EB%B0%9C%EA%B8%B0-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-)
 - [내가 당장 해볼 수 있는 검색엔진 최적화](https://jodnddus.blog/todos-google-seo-guide)
 - [DB 설계하는 법 (feat. 데이터 모델링)](https://yeongunheo.tistory.com/entry/DB-%EC%84%A4%EA%B3%84%ED%95%98%EB%8A%94-%EB%B2%95-feat-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8%EB%A7%81)
-- [[O2] Obsidian plugin 개발하기](https://songkg7.github.io/posts/develop-obsidian-plugin/)
+- [[O2] Obsidian plugin 개발하기](https://haril.dev/blog/2023/02/22/develop-obsidian-plugin)
 - [SirTunnel를 활용한 터널링 서버 구축 - 로컬 서버를 인터넷에 공유하기](https://dlwocks31.me/blog/sirtunnel/)
 - [웹소켓 실전 적용하기](https://blog.chavo.dev/blog/practical-websocket?)
 - [제로부터 시작하는 MLOps 도구와 활용 - 1. MLOps 개요](https://blog.taehun.dev/from-zero-to-hero-mlops-tools-1)
@@ -85,7 +85,7 @@
 - [[Android] RecyclerViewPool로 사용자 경험 개선하기](https://munseong.dev/android/recyclerviewpool/)
 - [신입 개발자, 김영한 님을 만나다.](https://yeonyeon.tistory.com/300)
 - [스타트업 조직 문화 설계하기 (feat. Culture Design Canvas)](https://blog.chavo.dev/blog/culture-design-canvas?utm_source=slack&utm_medium=cpc&utm_campaign=8th_submission)
-- [chezmoi, 세상 편리하게 dotfile 관리하기](https://songkg7.github.io/posts/chezmoi-awesome-dotfile-manager/)
+- [chezmoi, 세상 편리하게 dotfile 관리하기](https://haril.dev/blog/2023/03/26/chezmoi-awesome-dotfile-manager)
 
 
 
