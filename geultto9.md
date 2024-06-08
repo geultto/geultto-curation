@@ -54,7 +54,22 @@
 
 ### 3 회차
 
-- 
+- [2023년 52주차 '다양한 도전으로 가능성을 탐구한 해'](https://daco2020.tistory.com/809)
+- [2023년 회고와 2024년 비전 Metaverse AI girl로서 살아가는 25살의 삶을 마무리하며](https://brunch.co.kr/@jypthemiracle/26)
+- [토스에서의 1년을 돌아보며](https://happysisyphe.tistory.com/67)
+- [정답은 없지만 참고하면 좋은, 제조 분석의 모델링](https://ysjang0926.github.io/etc/2024/01/04/no-answer-but-good-reference-models-in-manufacturing-analysis/)
+- [GraphFDS - 02](https://inblog.ai/graphwoody/graphfds-02)
+- [[StableDiffusion] Virtual Try On : 원하는 옷을 입혀보자](https://rimo.tistory.com/entry/StableDiffusion-Virtual-Try-On-%EC%9B%90%ED%95%98%EB%8A%94-%EC%98%B7%EC%9D%84-%EC%9E%85%ED%98%80%EB%B3%B4%EC%9E%90)
+- [synchronized와 ReentrantLock, 그리고 JDK21 Virtual Thread](https://velog.io/@eastperson/synchronized%EC%99%80-ReentrantLock-%EA%B7%B8%EB%A6%AC%EA%B3%A0-JDK-21-Virtual-Thread)
+- [MongoDB 데이터 모델링 (vs MySQL)](https://cheese-dev.tistory.com/30)
+- [이모지의 이모저모](https://www.padosum.dev/wiki/Various-Aspects-of-Emoji/)
+- [Combine과 async/await를 같이 사용하는 건에 관하여](https://medium.com/@radiantchoi/combine%EA%B3%BC-async-await%EB%A5%BC-%EA%B0%99%EC%9D%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EA%B1%B4%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC-b811e2234a4f)
+- [프론트엔드에서 테스트코드를 작성하는 방법](https://developer-bandi.github.io/post/frontend-testing/)
+- [JS 탐구생활 - JS의 주석은 //과 /* */뿐만이 아니다](https://witch.work/posts/javascript-various-comments)
+- [잡다에서 기업 정보를 수집하는 방법](https://dkswnkk.tistory.com/735)
+- [데이터 거버넌스의 첫걸음, 데이터 표준화](https://wvwv.tistory.com/101)
+- [개발자 이력서 작성 및 변화 과정 (이력서 공개)](https://imksh.com/120)
+- [신입 개발자! 회사와 함께 성장하기](https://myvelop.tistory.com/216)
 
 
 
