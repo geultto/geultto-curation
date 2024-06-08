@@ -31,7 +31,24 @@
 
 ### 2 회차
 
-- 
+- [JavaScript 커링(Currying) 이해하기: 6가지 실전 활용 사례](https://weezip.treefeely.com/post/learn-js-currying-with-6-examples)
+- [길드는 유저를 응집시킬 수 있을까? 인과추론으로 바라보는 길드 영향력 분석](https://blessedby-clt.tistory.com/60)
+- [React 동시성에 대해 알아보기](https://jgjgill-blog.netlify.app/post/learn-about-react-concurrent/)
+- [ChatGPT + Whisper + OpenAI TTS를 활용한 인공지능 영어공부](https://jasonkang14.github.io/llm/ai-english-tutor-with-chatgpt-whisper-openai)
+- [Go Context 를 활용하여 애플리케이션을 안전하게 종료하기](https://medium.com/@arneg0shua/go-context-%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%84-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EC%A2%85%EB%A3%8C%ED%95%98%EA%B8%B0-1e77b0098270)
+- [피그마 Dev mode 플러그인을 만들어서 웹 프론트엔드팀 생산성 높여보기](https://developer.comento.kr/post/c-typography-converter-figma-plugin-23-12-18)
+- [[Devfest Songdo 2023] 송도에서 열린 개발자들의 축제 후기](https://shinjungoh.tistory.com/entry/Devfest-Songdo-2023)
+- [슬랙 워크플로(workflow)로 팀 생산성 높이기](https://pizzathiefz.github.io/posts/slack-workflow-for-team-productivity/)
+- [[Test] Spring Boot 환경에서의 유닛테스트와 통합테스트, 슬라이스 테스트](https://joonfluence.tistory.com/786)
+- [DBMS별 NULL 처리 차이점에 대해 알아보자](https://wvwv.tistory.com/99)
+- [과거 프로젝트 리팩토링해보기 (과거의 나 vs 현재의 나)](https://0juuu.tistory.com/26)
+- [SpringBoot ObjectMapper customize 하는 방법](https://junuuu.tistory.com/934)
+- [테크니컬 라이팅을 위한 AI 어시스턴트 구축하기 (Feat. ReAct, Agents for Amazon Bedrock)](https://medium.com/@nuatmochoi/%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC-%EB%9D%BC%EC%9D%B4%ED%8C%85%EC%9D%84-%EC%9C%84%ED%95%9C-ai-%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-feat-react-agents-for-amazon-bedrock-304c12527539)
+- [2023년 회고 - 미국에서 결혼식, 집 구매, 스타트업 재택근무 2억대 연봉 최종 합격](https://ohappy3970.tistory.com/4)
+- [Pandas 2.0의 Copy-On-Write에 대하여](https://swalloow.github.io/pandas-2-0-copy-on-write/)
+- [효과적인 코드 리뷰를 향한 여정 (ft. aws codecommit, space)](https://todayscoding.tistory.com/67)
+- [Storybook Interaction Test를 활용한 바텀시트 시각적 테스트](https://www.oooooroblog.com/posts/75-storybook-interaction-tests)
+- [개발자의 학습과 성장](https://kciter.so/posts/developers-learning-and-growth/)
 
 
 
