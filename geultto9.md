@@ -101,7 +101,21 @@
 
 ### 5 회차
 
-- 
+- [Vim과 사랑에 빠지다 - Vim 입문기](https://milkymilky0116.github.io/posts/introduce_vim/)
+- [글 쓰는 개발자의 갈피, 글쓰기 파이프라인](https://medium.com/@radiantchoi/%EA%B8%80-%EC%93%B0%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EA%B0%88%ED%94%BC-%EA%B8%80%EC%93%B0%EA%B8%B0-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-457bad29a3b3)
+- [[퇴사 회고] 첫 사랑, 첫 퇴사, 첫 이별 _ 1년 6개월의 단짠단짠](https://sowhatmylifeismine.tistory.com/281)
+- [TSserver 톺아보기](https://ironist-tapkim.tistory.com/11)
+- [우리팀만의 ESLint 규칙 만들기](https://developer-bandi.github.io/post/eslint-custom-rule/)
+- [Google Sheets로 모두를 위한 국제화 구현하기](https://www.junyoung.site/posts/Google-Sheets%E1%84%85%E1%85%A9-%E1%84%86%E1%85%A9%E1%84%83%E1%85%AE%E1%84%85%E1%85%B3%E1%86%AF-%E1%84%8B%E1%85%B1%E1%84%92%E1%85%A1%E1%86%AB-%E1%84%80%E1%85%AE%E1%86%A8%E1%84%8C%E1%85%A6%E1%84%92%E1%85%AA-%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5)
+- [Vite Dev Server 이해하기 (feat. HMR)](https://1ilsang.dev/posts/js/dev-server)
+- [내가 AI를 즐겁게 시작했던 방법, 해커톤](https://rimo.tistory.com/entry/%EB%82%B4%EA%B0%80-AI%EB%A5%BC-%EC%A6%90%EA%B2%81%EA%B2%8C-%EC%8B%9C%EC%9E%91%ED%96%88%EB%8D%98-%EB%B0%A9%EB%B2%95-%ED%95%B4%EC%BB%A4%ED%86%A4)
+- [[Excel 파워쿼리] 공유 받은 구글 시트를 로컬에서 활용하기 (ft. 글또)](https://wvwv.tistory.com/103)
+- [TinyML KOR - 🧑‍🏫 Lecture 3](https://tinyml-kor.github.io/blog/posts/lecs/lec03.html)
+- [[분석] 대시보드를 만드는 과정과 그 속의 고민들](https://schatz37.tistory.com/72)
+- [JPA 사용 시 19가지 Tip](https://velog.io/@wisepine/JPA-%EC%82%AC%EC%9A%A9-%EC%8B%9C-19%EA%B0%80%EC%A7%80-Tip)
+- [DCI(Describe-Context-It) 패턴을 활용해 테스트 케이스의 가독성 향상시키기](https://velog.io/@langoustine/DCI%ED%8C%A8%ED%84%B4-%ED%85%8C%EC%8A%A4%ED%8A%B8%EA%B0%80%EB%8F%85%EC%84%B1-%ED%96%A5%EC%83%81)
+- [JPA Pattern (3) O-ORM Pattern / 컨퍼런스 발표 후기](https://labyu.me/jpa-pattern-3-o-orm-pattern-%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-%EB%B0%9C%ED%91%9C-%ED%9B%84%EA%B8%B0-07743393be54)
+- [[UIKit] UIBarAppearance - iOS 시스템 바의 기본 모양 커스터마이징하기](https://meenu.tistory.com/30)
 
 
 
