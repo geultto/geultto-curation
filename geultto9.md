@@ -75,7 +75,27 @@
 
 ### 4 회차
 
-- 
+- [Python으로 모노레포 구성하기](https://medium.com/@sudosubin/python%EC%9C%BC%EB%A1%9C-%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0-091a85826620)
+- [동영상 안끊기고 보는법 (feat. LL-HLS)](https://medium.com/@cwh./%EB%8F%99%EC%98%81%EC%83%81-%EC%95%88%EB%81%8A%EA%B8%B0%EA%B3%A0-%EB%B3%B4%EB%8A%94%EB%B2%95-feat-ll-hls-a6a0c453b21f)
+- [쿠버네티스의 Eviction Threshold 조정하기](https://velog.io/@langoustine/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-Eviction-Threahold-%EC%A1%B0%EC%A0%95)
+- [리액트와 SCSS로 구현한 눈송이 애니메이션 코드: 사이트에 겨울 불어넣기](https://weezip.treefeely.com/post/make-snowflakes-effect-in-react)
+- [LangCursor :: 한영키 오타를 방지하는 IntelliJ 플러그인 개발기](https://velog.io/@wisepine/LangCursor-%ED%95%9C%EC%98%81%ED%82%A4-%EC%98%A4%ED%83%80%EB%A5%BC-%EB%B0%A9%EC%A7%80%ED%95%98%EB%8A%94-IntelliJ-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EA%B8%B0)
+- [토스페이스를 클론코딩 해보자](https://velog.io/@blcklamb/%ED%86%A0%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC-%ED%81%B4%EB%A1%A0%EC%BD%94%EB%94%A9-%ED%95%B4%EB%B3%B4%EC%9E%90)
+- [브라우저에서 이미지를 자를때 고려할것들](https://www.junyoung.site/posts/%E1%84%87%E1%85%B3%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%8C%E1%85%A5%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A5-%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%85%E1%85%B3%E1%86%AF-%E1%84%8C%E1%85%A1%E1%84%85%E1%85%B3%E1%86%AF%E1%84%84%E1%85%A2-%E1%84%80%E1%85%A9%E1%84%85%E1%85%A7%E1%84%92%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A5%E1%86%BA%E1%84%83%E1%85%B3%E1%86%AF)
+- [JS의 소리를 찾아서 - Javascript의 초기 실수와 선택들](https://witch.work/posts/javascript-history-initial-decisions)
+- [CSS가 괴로운 개발자를 위하여](https://helia-17.tistory.com/15)
+- [표준 스트림을 이용한 프로세스 간 통신으로 재현성(Reproducibility) 지키기](https://www.verycosy.net/posts/2024/01/%ED%91%9C%EC%A4%80-%EC%8A%A4%ED%8A%B8%EB%A6%BC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EA%B0%84-%ED%86%B5%EC%8B%A0%EC%9C%BC%EB%A1%9C-%EC%9E%AC%ED%98%84%EC%84%B1(Reproducibility)-%EC%A7%80%ED%82%A4%EA%B8%B0)
+- [LocalStorage 대신 IndexedDB 사용하기](https://www.padosum.dev/wiki/Using-indexedDB-instead-of-localStorage/)
+- [Type-Driven Development](https://kciter.so/posts/type-driven-development/)
+- [AI가 실세계의 글자를 읽는 방법, STR(Scene Text Recogniton)](https://js-dm.tistory.com/3)
+- [Trino Gateway를 한번만 알아보자](https://ivoryrabbit.github.io/posts/Trino-Gateway/)
+- [꼬리에 꼬리를 무는 시계열 개념 정리, 정상성부터 공적분까지](https://blessedby-clt.tistory.com/62)
+- [Zero Copy 에 대하여](https://velog.io/@eunz_juu/Zero-copy-%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
+- [새로운 기능 개발 전, 물음표 살인마 되기](https://velog.io/@broccolism/%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EB%8A%A5-%EA%B0%9C%EB%B0%9C-%EC%A0%84-%EB%8D%98%EC%A0%B8%EB%B3%BC%EB%A7%8C%ED%95%9C-%EC%A7%88%EB%AC%B8%EB%93%A4)
+- [[Python] 데코레이터(Decorator)란 무엇일까?](https://tolerblanc.github.io/python/what-is-decorator/)
+- [숫자 1은 올바른 JSON 형식인가?](https://wormwlrm.github.io/2024/01/21/Standardization-of-JSON.html)
+- [[iOS] Stretchable Image (a.k.a iOS 9-Patch)](https://meenu.tistory.com/29)
+- [ChatGPT 개인화 및 Store 탐방하기](https://raiknow.tistory.com/127)
 
 
 
