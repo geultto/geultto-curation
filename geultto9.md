@@ -121,7 +121,22 @@
 
 ### 6 회차
 
-- 
+- [개발자 글쓰기 커뮤니티는 '슬랙 봇'을 어떻게 사용하고 있을까?](https://daco2020.tistory.com/812)
+- [랜덤 뽑기(가챠) 시스템 구현하기](https://hyeon9mak.github.io/lets-make-random-draw-system/)
+- [에셋 관리 시스템을 만들어보자 (에셋타운 2편 - 어드민 페이지 with Sanity)](https://junghyeonsu.com/posts/asset-town-admin-with-sanity/)
+- [Render Delegation하는 React 컴포넌트 만들기](https://kciter.so/posts/render-delegation-react-component/)
+- [생산성에 진심인 자의 Raycast 세팅 엿보기 (for macOS)](https://velog.io/@wisepine/%EC%83%9D%EC%82%B0%EC%84%B1%EC%97%90-%EC%A7%84%EC%8B%AC%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-Raycast-%EC%84%B8%ED%8C%85-%EC%97%BF%EB%B3%B4%EA%B8%B0-for-macOS)
+- [Nginx 대신 Kong Gateway](https://medium.com/@sudosubin/nginx-%EB%8C%80%EC%8B%A0-kong-gateway-5a0724ce3449)
+- [콘텐츠 접근이 가능한 아코디언을 만들어보자! (with. until-found, details)](https://mong-blog.tistory.com/entry/%EC%BD%98%ED%85%90%EC%B8%A0-%EC%A0%91%EA%B7%BC%EC%9D%B4-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%95%84%EC%BD%94%EB%94%94%EC%96%B8%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90-with-until-found-details)
+- [UTC, ISO 8601, and JavaScript](https://snupi.vercel.app/articles/utc-iso8601-and-javascript)
+- [Socket.IO의 정체: Socket.IO와 웹소켓은 동일한 개념일까?](https://velog.io/@eunddodi/%EC%B1%84%ED%8C%85-%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%9C%84%ED%95%9C-Socket.IO-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
+- [주제어는 있는데 논문은 어떻게 찾지?](https://saankim0.notion.site/854d439bec634469b345c27264089c94)
+- [예제와 함께 살펴보는 Jetpack Compose 의 장점](https://velog.io/@hoyaho/Jetpack-Compose-%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
+- [[Prompt] 프롬프트 엔지니어는 어떤 일을 할까?](https://gagadi.tistory.com/54)
+- [Kubernetes에서 memory가 부족해지면 어떻게 될까? - Kubernetes Out-Of-Memory(OOM) kill and eviction](https://littlemobs.com/blog/kuberentes-oom-kill-and-eviction/)
+- [GitButler 톺아보기](https://www.korecmblog.com/blog/git-butler-example)
+- [[resilience4j] 외부 서비스 호출로직에 서킷 브레이커 패턴 적용하기](https://gencomi.tistory.com/entry/resilience4j-%EC%A0%81%EC%9A%A9)
+- [[MongoDB] MongoDB에서 범위로 특정한 데이터는 배다른 자식 취급을 받는다](https://medium.com/@seungwooyu2000kr/mongodb-mongodb%EC%97%90%EC%84%9C-%EB%B2%94%EC%9C%84%EB%A1%9C-%ED%8A%B9%EC%A0%95%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%8A%94-%EB%B0%B0%EB%8B%A4%EB%A5%B8-%EC%9E%90%EC%8B%9D-%EC%B7%A8%EA%B8%89%EC%9D%84-%EB%B0%9B%EB%8A%94%EB%8B%A4-d08c65161955)
 
 
 
