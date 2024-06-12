@@ -142,7 +142,22 @@
 
 ### 7 회차
 
-- 
+- [외부 API를 연동할 때 고려하면 좋은 점들](https://dkswnkk.tistory.com/742)
+- [[Kafka] 넓고 얕게 카프카를 이해해보자](https://jinseong-dev.tistory.com/42)
+- [[데이터베이스] 복합 인덱스 순서는 중요할까?](https://haileyjpark.tistory.com/22)
+- [[Go] Multi Thead in Go](https://velog.io/@chltpdus48/Multi-Thead-in-Go)
+- [[UIKit] UIVisualEffect - UIView에 흐림(Blur) 효과 주기](https://meenu.tistory.com/31)
+- [BentoML 에 대해 들어보셨나요?](https://techmellow.tistory.com/11)
+- [Mock, SpyOn, Fn: 통합테스트의 핵심 요소 이해하기](https://velog.io/@wns450/%ED%86%B5%ED%95%A9%ED%85%8C%EC%8A%A4%ED%8A%B8)
+- [생각보다 수학으로 할 수 있는 많은것들 (Non-linear font scaling 구현하기)](https://velog.io/@wongue_shin/%EC%83%9D%EA%B0%81%EB%B3%B4%EB%8B%A4-%EC%88%98%ED%95%99%EC%9C%BC%EB%A1%9C-%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EB%A7%8E%EC%9D%80%EA%B2%83%EB%93%A4-Non-linear-font-scaling-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
+- [특정한 규칙을 가진 문자열을 정규표현식으로 표현하기](https://developer-bandi.github.io/post/regex-grammer-example/)
+- [프론트엔드 TDD 튜토리얼 with React & Testing Library](https://www.oooooroblog.com/posts/80-tdd-tutorial)
+- [var은 let, const보다 빠르다](https://deluxe-centaur-4a55b0.netlify.app/use-var/)
+- [TanStack Query를 활용하여 Route 기반 Prefetching하기(feat.Render-as-you-fetch)](https://bichoninthefront.tistory.com/112)
+- [Metric Store(지표 저장소)에는 어떤 항목이 포함되면 좋을까?](https://velog.io/@h-go-getter/Metric-store%EC%97%90%EB%8A%94-%EC%96%B4%EB%96%A4-%EB%82%B4%EC%9A%A9%EC%9D%B4-%ED%8F%AC%ED%95%A8%EB%90%98%EB%A9%B4-%EC%A2%8B%EC%9D%84%EA%B9%8C)
+- [ASCII 3D 렌더러 만들기](https://kciter.so/posts/ascii-3d-renderer/)
+- [HyperCLOVA X를 활용한 공부앱 만들기](https://chucoding.tistory.com/137)
+- [업무의 미로에서 방향 찾기](https://todayscoding.tistory.com/77)
 
 
 
