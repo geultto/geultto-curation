@@ -163,7 +163,22 @@
 
 ### 8 회차
 
-- 
+- [Amazon S3 데이터를 암호화하는 3가지 방법](https://medium.com/@sudosubin/amazon-s3-데이터를-암호화하는-3가지-방법-ebc343cb991a)
+- [실시간 협업 애플리케이션은 어떻게 동작하는 걸까? (CRDT와 OT)](https://junior-datalist.tistory.com/385)
+- [파일 업로드 도중 배포를 진행해도 괜찮을까? — Graceful shutdown 적용편](https://medium.com/@arneg0shua/%ED%8C%8C%EC%9D%BC-%EC%97%85%EB%A1%9C%EB%93%9C-%EB%8F%84%EC%A4%91-%EB%B0%B0%ED%8F%AC%EB%A5%BC-%EC%A7%84%ED%96%89%ED%95%B4%EB%8F%84-%EA%B4%9C%EC%B0%AE%EC%9D%84%EA%B9%8C-graceful-shutdown-%EC%A0%81%EC%9A%A9%ED%8E%B8-453ae9f29dd1)
+- [[Python] 안쓰는 메모리 다 삽니다](https://tolerblanc.github.io/python/memory-management/)
+- [Query Keys를 관리하는 기준과 방법](https://velog.io/@bo-like-chicken/Query-Keys%EB%A5%BC-%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94-%EA%B8%B0%EC%A4%80%EA%B3%BC-%EB%B0%A9%EB%B2%95)
+- [웹 개발에 유용한 피그마 플러그인 알아보기](https://binary01.me/posts/figma-plugin)
+- [Tuist Duplicated Symbol Error 몰아내기](https://medium.com/@radiantchoi/tuist-duplicated-symbol-error-%EB%AA%B0%EC%95%84%EB%82%B4%EA%B8%B0-414c64b922e7)
+- [[Android] MVI 아키텍처로 마이그레이션 및 설계 살펴보기](https://munseong.dev/android/mvi_architecture/)
+- [[vscode] 컬러 변수 뷰어 만들기(1) - webview API 사용법](https://mong-blog.tistory.com/entry/vscode-%EC%BB%AC%EB%9F%AC-%EB%B3%80%EC%88%98-%EB%B7%B0%EC%96%B4-%EB%A7%8C%EB%93%A4%EA%B8%B01-webview-API-%EC%82%AC%EC%9A%A9%EB%B2%95)
+- [끝날 때까지 끝난 게 아니다](https://sewonkimm-github-io.vercel.app/blog/article/90percent)
+- [Web Speech API로 프론트엔드에서 TTS 구현하기](https://wormwlrm.github.io/2024/03/09/Web-Speech-API.html)
+- [Understanding Andre Karpathy’s Tokenizer Lecture](https://sigridjin.medium.com/understanding-andre-karpathys-tokenizer-lecture-7e8c05171d6d)
+- [[논문리뷰] Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4 (2024)](https://gagadi.tistory.com/55)
+- [일머리가 없는 신입 분석가였던 나에게: 자료 정리 편](https://bang-bang.tistory.com/12)
+- [[분석] 분석 결과를 빛내주는 사소한 요소들](https://schatz37.tistory.com/74)
+- [업무 성장을 위한 회고: 나의 방법과 경험 소개](https://velog.io/@h-go-getter/%EC%97%85%EB%AC%B4-%EC%84%B1%EC%9E%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%9A%8C%EA%B3%A0-%EB%82%98%EC%9D%98-%EB%B0%A9%EB%B2%95%EA%B3%BC-%EA%B2%BD%ED%97%98-%EC%86%8C%EA%B0%9C)
 
 
 
