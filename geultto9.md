@@ -184,7 +184,21 @@
 
 ### 9 회차
 
-- 
+- [Native Event와 React Event의 차이점](https://snupi.vercel.app/articles/difference-between-native-and-react-event)
+- [How to make simple watchOS Complications](https://medium.com/@Jager-yoo/how-to-make-simple-watchos-complications-df236940c4d0)
+- [[iOS] String Catalog - Xcode 15 이후의 iOS 앱에서 다국어 지원하기 (feat. Localization)](https://meenu.tistory.com/33)
+- [초기 스타트업의 GitOps 적용기](https://blog.taehun.dev/gitops-startup-case)
+- [데이터 잡부의 MLOps도전기 (3) - FaaS를 직접 설치해보자](https://mightytedkim.tistory.com/209)
+- [Sentry를 활용한 Spring Boot 모니터링 시스템 구축](https://www.uwoobeat.dev/sentry-spring-boot-monitoring)
+- [로컬에 Https 웹서버를 도메인과 함께 띄워보자(feat. mkcert)](https://dreamsh19.github.io/https/%EB%A1%9C%EC%BB%AC%EC%97%90-HTTPS-%EC%9B%B9%EC%84%9C%EB%B2%84%EB%A5%BC-%EB%8F%84%EB%A9%94%EC%9D%B8%EA%B3%BC-%ED%95%A8%EA%BB%98-%EB%9D%84%EC%9B%8C%EB%B3%B4%EC%9E%90(feat.-mkcert)/)
+- [데이터 분석가가 젤라또 가게 사장님이 된다면?! (feat,좋은기분 by,녹싸)](https://lunadata.oopy.io/2bcf214c-453e-464d-903e-85b2ddffc821)
+- [매칭(Matching)을 통한 인과분석 : 개념부터 실습까지 (feat. ChatGPT)](https://blessedby-clt.tistory.com/70)
+- [Conformal Prediction으로 모델의 불확실성 계산하기](https://pizzathiefz.github.io/posts/introduction-to-conformal-prediction/)
+- [분산 트랜잭션(Distributed Transaction) 알아보기](https://monday9pm.com/%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-distributed-transaction-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-d0a10ad5dd53)
+- [당신의 컴퓨터의 now는 내 컴퓨터와 다를 수 있다 - timestamp precision](https://devpanpan.tistory.com/entry/%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98-now%EB%8A%94-%EB%82%B4-%EC%BB%B4%ED%93%A8%ED%84%B0%EC%99%80-%EB%8B%A4%EB%A5%BC-%EC%88%98-%EC%9E%88%EB%8B%A4-timestamp-precision)
+- [MySQL 인덱스 크기와 디스크 I/O 최적화: 데이터베이스 성능 향상 가이드](https://xpmxf4.tistory.com/102)
+- [k8sGPT를 사용하여 쿠버네티스 트러블슈팅 하기(feat. 로컬LLM)](https://sungchul-p.github.io/k8sgpt-with-local-llm)
+- [Node.js Promise로 외부 서비스 호출 최적화하기](https://www.verycosy.net/posts/2024/03/external-service-call-optimization-via-nodejs-promise)
 
 
 
