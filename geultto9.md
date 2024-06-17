@@ -204,8 +204,29 @@
 
 ### 10 회차
 
+- [파일 업로드 도중 배포를 진행해도 괜찮을까?-docker,kube 배포편](https://medium.com/@arneg0shua/%ED%8C%8C%EC%9D%BC-%EC%97%85%EB%A1%9C%EB%93%9C-%EB%8F%84%EC%A4%91-%EB%B0%B0%ED%8F%AC%EB%A5%BC-%EC%A7%84%ED%96%89%ED%95%B4%EB%8F%84-%EA%B4%9C%EC%B0%AE%EC%9D%84%EA%B9%8C-docker-kube-%EB%B0%B0%ED%8F%AC%ED%8E%B8-c95d6852e98d)
+- [select .. for update 대상 유무에 따른 잠금 상태](https://dkswnkk.tistory.com/749)
+- [[Test] 비즈니스 로직 테스트: 읽기 쉽고 효율적인 단위테스트](https://myvelop.tistory.com/224)
+- [정적 컨텐츠를 쉽게 다룰 수 있게 해주는 velite를 알아보자](https://witch.work/posts/velite-library-introduction)
+- [웹 개발자가 가져야 할 센스 (Feat. 뒤로 가기하면 어떻게 되나요?)](https://velog.io/@hhhminme/%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EA%B0%80%EC%A0%B8%EC%95%BC%ED%95%A0-%EC%84%BC%EC%8A%A4)
+- [React에서 중복호출(aka. 따닥)을 막는 완벽한 방법](https://happysisyphe.tistory.com/72)
+- [하루 만에 배우는 지리 데이터 시각화 : Uber가 만든 Kepler 사용법](https://velog.io/@h-go-getter/%ED%95%98%EB%A3%A8-%EB%A7%8C%EC%97%90-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%A7%80%EB%A6%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94-Uber%EA%B0%80-%EB%A7%8C%EB%93%A0-Kepler-%EC%82%AC%EC%9A%A9%EB%B2%95)
+- [Whisper 모델 1년 간 사용한 후기](https://www.bytesizeponderings.com/whisper-review-2)
+- [데이터베이스 관점의 이중화](https://velog.io/@akfls221/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B4%80%EC%A0%90%EC%9D%98-%EC%9D%B4%EC%A4%91%ED%99%94)
+- [(java/spring) 병렬 프로그래밍 - 동시에 일을 처리하는 방법들](https://jihyunhillcs.tistory.com/42)
+- [비밀 관리를 위한 금고 시스템 만들기](https://kciter.so/posts/encrypted-vault-system)
+- [제 11회 유니톤 대상 후기, 그리고 배운 것들](https://daco2020.tistory.com/815)
+- [[수강 후기] 유데미(Udemy) 【한글자막】 Docker & Kubernetes : 실전 가이드](https://velog.io/@blcklamb/%EC%88%98%EA%B0%95-%ED%9B%84%EA%B8%B0-%EC%9C%A0%EB%8D%B0%EB%AF%B8Udemy-%E3%80%90%ED%95%9C%EA%B8%80%EC%9E%90%EB%A7%89%E3%80%91-Docker-Kubernetes-%EC%8B%A4%EC%A0%84-%EA%B0%80%EC%9D%B4%EB%93%9C)
+- [어느날 갑자기 앱이 켜지지 않는다](https://velog.io/@wongue_shin/%EC%96%B4%EB%8A%90%EB%82%A0-%EA%B0%91%EC%9E%90%EA%B8%B0-%EC%95%B1%EC%9D%B4-%EC%BC%9C%EC%A7%80%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4)
+
 
 
 ### Bonus 회차
 
-- 
+- [시각적 회귀 테스트 도입기](https://1ilsang.dev/posts/visual-regression-test)
+- [rm -rf로 날린 설정 파일 chezmoi로 관리하기](https://pozafly.github.io/tools/manage-with-rm-rf-erased-setting-file-chezmoi/)
+- [테스트 코드를 짜다보면 보이는 것들.. (이론/실전편)](https://velog.io/@ryu_log/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%A7%9C%EB%8B%A4%EB%B3%B4%EB%A9%B4-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EA%B2%83%EB%93%A4..-%EC%9D%B4%EB%A1%A0%EC%8B%A4%EC%A0%84%ED%8E%B8)
+- [[Reactor] 서버 느리게 만드는 API 개발하기 (feat: block)](https://yeonyeon.tistory.com/330)
+- [[Network] 인터넷 공유기의 작동원리: NAT(Network Address Translation)](https://techblog-history-younghunjo1.tistory.com/567)
+- [퀵썸네일 (Quick Thumbnails) 소개](https://sjquant.tistory.com/99)
+- [React로 인스타그램 필터 구현하기](https://zerolog.vercel.app/posts/react-instagram-filter)
