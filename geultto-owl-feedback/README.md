@@ -12,7 +12,7 @@
 
 1. 저장소 클론
 ```bash
-git clone https://github.com/aws-samples/bedrock-access-gateway.git
+git clone https://github.com/geultto/geultto-curation.git
 cd geultto-owl-feedback
 ```
 
