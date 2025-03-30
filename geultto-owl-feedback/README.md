@@ -2,6 +2,11 @@
 
 글또 블로그 글에 대한 AI 피드백을 생성하는 Streamlit 애플리케이션입니다.
 
+개발 과정이 궁금하신 분은 아래 글들을 읽어보시는 것을 추천합니다.
+- [글또 웹페이지](https://geultto.github.io/)
+- [🦉 글또의 제출 글 검수 자동화 봇: 글빼미를 소개합니다!](https://geultto.github.io/blog/geultto-owl/introduction/)
+- [🦉 LLM 기반 블로그 피드백 자동화 : 글빼미의 피드백은 어떻게 이루어질까요?](https://geultto.github.io/blog/geultto-owl/feedback/)
+
 ## 🚀 시작하기
 
 ### 필수 요구사항
@@ -83,8 +88,15 @@ AI는 다음 네 가지 주요 기준에 따라 피드백을 제공합니다:
 - OpenAI API / OpenAI 호환 API
 
 ## 📝 라이선스
+MIT License
 
-[라이선스 정보 추가]
+Copyright (c) 2025 글또
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## 👥 기여하기
 
