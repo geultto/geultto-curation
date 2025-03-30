@@ -117,9 +117,15 @@ def get_openai_feedback(api_key: str, base_url: str, model: str, blog_text: str,
         return f"Error generating feedback: {str(e)}"
 
 def main():
-    st.set_page_config(page_title="글또 피드백 생성기", page_icon="📝", layout="wide")
+    st.set_page_config(page_title="글또 글 피드백 생성기", page_icon="📝", layout="wide")
     
-    st.title("📝 글또 피드백 생성기")
+    st.title("📝 개발자 글쓰기 모임 - 글또 피드백 생성기")
+    st.markdown("""
+- [글또 웹페이지](https://geultto.github.io/)
+- 개발 과정이 궁금하신 분들은 아래 글들을 읽어보시는 것을 추천합니다
+    - [🦉 글또의 제출 글 검수 자동화 봇: 글빼미를 소개합니다!](https://geultto.github.io/blog/geultto-owl/introduction/)
+    - [🦉 LLM 기반 블로그 피드백 자동화 : 글빼미의 피드백은 어떻게 이루어질까요?](https://geultto.github.io/blog/geultto-owl/feedback/)
+""")
     st.markdown("---")
 
     # Sidebar for configuration
